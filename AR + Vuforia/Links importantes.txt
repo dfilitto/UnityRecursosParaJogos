@@ -1,0 +1,3 @@
+Arquivo com modelos 3D: https://github.com/dfilitto/UnityRecursosParaJogos/raw/main/PacoteOficialDeAssets/AnimaisFazendeiros.zip
+Site Vuforia SDK Unity: https://developer.vuforia.com/downloads/SDK
+ 
